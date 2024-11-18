@@ -1,0 +1,2 @@
+Mémoire de recherche sur le modèle SABR : Stochastic Alpha Beta Rho. Description mathématique du modèle, preuve de la volatilité implicite donnée par Hagan dans ses recherches et étude de deux produits de taux : une étude mathématique pour les caplets,
+et une application sur Python pour pricer des swaptions et calculer d'autres indicateurs tels que le Delta. J'ai également étudié le modèle SABR shifté qui permet de se placer dans un environnement économique avec des taux négatifs.
